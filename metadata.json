@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Orçamento de Cortinas",
+  "description": "Sistema para orçamento de cortinas sob medida com cálculo automático de custos, desperdício de tecidos, checklist inteligente de acessórios e geração de PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
